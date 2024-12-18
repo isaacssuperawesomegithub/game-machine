@@ -1,8 +1,10 @@
 # Game Machine
-For information on how your game can be added, visit : https://isaacssuperawesomegithub.github.io/index.html
+For information on creating a game for the game machine, see [this](tutorial.md).
 
 Currently supported languages:
+
 Python
+
 C++
 
 Questions? See Isaac.
